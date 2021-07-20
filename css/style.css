@@ -15,7 +15,7 @@ body {
 .header {
   background-image: url(../img/dark_tint.png),
     url(../img/bokeh_car_lights_bg.jpg);
-  background-position: center center;ذ
+  background-position: center center;
   background-size: cover;
 }
 a {
